@@ -1,0 +1,4 @@
+C:\SUBBA RAMI\vscode programs\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\SUBBA RAMI\vscode programs\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\SUBBA RAMI\vscode programs\Constructors\Constructors\obj\x86\Debug\Constructors.exe
+C:\SUBBA RAMI\vscode programs\Constructors\Constructors\obj\x86\Debug\Constructors.pdb

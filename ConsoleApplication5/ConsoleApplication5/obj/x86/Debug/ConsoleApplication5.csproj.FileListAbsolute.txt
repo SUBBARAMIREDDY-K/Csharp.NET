@@ -1,0 +1,5 @@
+C:\SUBBA RAMI\vscode programs\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\SUBBA RAMI\vscode programs\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\SUBBA RAMI\vscode programs\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\SUBBA RAMI\vscode programs\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+C:\SUBBA RAMI\vscode programs\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache

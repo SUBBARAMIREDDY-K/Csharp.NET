@@ -1,0 +1,4 @@
+C:\SUBBA RAMI\vscode programs\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\SUBBA RAMI\vscode programs\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\SUBBA RAMI\vscode programs\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.exe
+C:\SUBBA RAMI\vscode programs\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.pdb
